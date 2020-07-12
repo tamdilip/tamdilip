@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![tamdilip portfolio](https://raw.githubusercontent.com/tamdilip/tamdilip/master/profile_banner.gif)
+![tamdilip portfolio](https://raw.githubusercontent.com/tamdilip/tamdilip/master/profile_cover.gif)
 
 <!--
 **tamdilip/tamdilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
